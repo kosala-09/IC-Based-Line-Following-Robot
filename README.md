@@ -65,6 +65,8 @@ The logic outputs are connected to the L293D motor-control inputs to control the
 
 ## 📄 Project Portfolio
 
-The complete project report is available in the `report` folder
+- The complete project report is available in here
+- All the images relate to robot and simulation videos include in it
+- [Download Project Portfolio (PDF)](Group%2020%20-%20Line%20Following%20Robot%20Portofolio%20(2).pdf)
 
 
